@@ -7,10 +7,10 @@
 <body>
     <h1>Hello World</h1>
     <div>
-        <p>Super site fabriqué par Liam Mennrath - BUT Informatique 2</p>
-        <p>Visionner les <a href="./phpinfo.php">informations <b>PHP</b></a>.</p>
-        <p>Voir les <a href="./request.php">informations de la requête</a>.</p>
-        <p>Supporter un <a href="./band/">groupe de musique</a>.</p>
+        
+        <p><a href="./phpinfo.php">info</a>.</p>
+        <p><a href="./request.php">request</a>.</p>
+        <p><a href="./band/">groupe</a>.</p>
     </div>
 </body>
 </html>

@@ -5,7 +5,7 @@
 ?>
 <body>
     <div>
-        <img src="./splash/splash_02.jpg" class="splash">
+        <img src="./splash/splash_02.png" class="splash">
     </div>
     <main>
         <?php
